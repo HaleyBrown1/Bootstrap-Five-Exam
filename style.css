@@ -1,0 +1,13 @@
+.gradient {
+    background: rgb(90,218,255);
+    background: linear-gradient(90deg, rgba(90,218,255,1) 0%, rgba(173,221,189,1) 49%, rgba(255,223,123,1) 100%);
+}
+html body{
+    height: 100%;
+    font-size: 1rem;
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+}
