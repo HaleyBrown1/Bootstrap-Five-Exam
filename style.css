@@ -5,9 +5,25 @@
 html body{
     height: 100%;
     font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
 .page-header{
     margin-top: 4rem;
     font-size: 1.25rem;
     color: white;
+}
+.feature{
+    color:white
+}
+.feature ul{
+    padding-left:2rem;
+    list-style-type:none;
+}
+.feature ul li{
+    padding-left:2rem;
+    background-image: url(#);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
 }
