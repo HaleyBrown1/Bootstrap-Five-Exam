@@ -11,10 +11,10 @@ html body{
 .page-header{
     margin-top: 4rem;
     font-size: 1.25rem;
-    color: white;
+    color: rgb(105, 105, 105);
 }
 .feature{
-    color:white
+    color:rgb(105, 105, 105);
 }
 .feature ul{
     padding-left:2rem;
@@ -22,13 +22,13 @@ html body{
 }
 .feature ul li{
     padding-left:2rem;
-    background-image: url(#);
+    background-image: url(file:///C:/Users/Haley.Brown/Downloads/check-solid.svg);
     background-repeat: no-repeat;
     line-height: 1.5rem;
     margin-bottom: 1rem;
 }
 .icon{
-    color:white;
+    color:rgb(105, 105, 105);
     height: 5rem;
     width: 5rem;
     font-size: 1.75rem;
@@ -38,22 +38,22 @@ html body{
     justify-content: center;
 }
 .gallery{
-    background-color: whitesmoke;
+    background-color: rgb(226, 225, 225);
 }
 .gallery img{
     border-radius: 5%;
 }
 .services{
-    color: white;
+    color: rgb(105, 105, 105);
 
 }
 footer{
-    color: white;
+    color: rgb(105, 105, 105);
     font-size: 1rem;
     margin: 0;
     padding: 1rem;
 }
 a{
-    color: white;
+    color: rgb(105, 105, 105);
     text-decoration: none;
 }
